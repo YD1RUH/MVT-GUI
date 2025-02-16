@@ -10,20 +10,15 @@
 ## requirement
 * system operation windows 10 or UP
 * python3
+* ADB
 
 ## feature
-* client server app
-* encrypted
-* simple, no need install python module or anything
-
-## How to use ?
-1. put the `server.exe` in server side then run
-2. after `server.exe` run, open `client.exe`
-3. now the app ready to chat
+* Update and Download IOCs
+* ADB for remove package
+* Scanning spyware over USB Debug
 
 ## Note
 * this is a test app
 * for educational only
-* app run using port 5000 
 
 73 

@@ -1,7 +1,7 @@
 # MVT-GUI — Spyware Audit untuk Android & iOS
 
 <p align="center">
-  <img src="https://github.com/YD1RUH/MVT-GUI/blob/main/MVT-GUI.PNG?raw=true" alt="Tampilan MVT-GUI" width="900">
+  <img src="https://github.com/YD1RUH/MVT-GUI/blob/main/MVT-GUI.PNG" alt="Tampilan MVT-GUI" width="900">
 </p>
 
 <p align="center">
